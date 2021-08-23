@@ -1,4 +1,4 @@
-# Import Splinter and BeautifulSoup
+# Import Splinter and BeautifulSoup, and Pandas
 from splinter import Browser
 from bs4 import BeautifulSoup as soup
 import pandas as pd
