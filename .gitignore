@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Mission to Mars files to ignore  
+Practice.ipynb
